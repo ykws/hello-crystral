@@ -5,10 +5,14 @@
 
 ## Getting started
 
+clone this repository, or refer to [this page](https://crystal-lang.org/reference/1.5/getting_started/http_server.html).
+
 ```
 $ brew install crystal
-$ crystal hello_world.cr
+$ crystal run hello_world.cr
 ```
+
+http://127.0.0.1:8080
 
 - [Install On macOS](https://crystal-lang.org/install/on_mac_os/)
 - [Language Reference](https://crystal-lang.org/reference/1.5/getting_started/index.html)
